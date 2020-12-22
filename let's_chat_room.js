@@ -15,14 +15,13 @@ function addRoom()
 }
 
 var firebaseConfig = {
-    apiKey: "AIzaSyBwUB9kmn3ToRnmjuPMK3TDF5SHGrdhih8",
-    authDomain: "let-s-chat-56156.firebaseapp.com",
-    databaseURL: "https://let-s-chat-56156.firebaseio.com",
-    projectId: "let-s-chat-56156",
-    storageBucket: "let-s-chat-56156.appspot.com",
-    messagingSenderId: "373454616591",
-    appId: "1:373454616591:web:17f590cf9a113fe11a0b7a",
-    measurementId: "G-8VGHTYRZBY"
+    apiKey: "AIzaSyA3iA9mWdXCGd-w1jvtPxTXM2c4WKNHL0w",
+    authDomain: "kwitter-9c2fc.firebaseapp.com",
+    databaseURL: "https://kwitter-9c2fc-default-rtdb.firebaseio.com",
+    projectId: "kwitter-9c2fc",
+    storageBucket: "kwitter-9c2fc.appspot.com",
+    messagingSenderId: "87191761882",
+    appId: "1:87191761882:web:1329d0c3bbe361d13986e3" 
   };
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
